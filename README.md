@@ -1,4 +1,4 @@
-# carousel
+# responsive carousel Bootstrap 5
 Bootstrap 5 customizable multi item carousel
 Make sure to include the bootsrap, jquery, javascript and popper js links.
 
